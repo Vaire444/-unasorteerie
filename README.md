@@ -13,11 +13,11 @@ var apples = [ 29, 70, 85, 77, 55, 44, 33, 98, 90, 47, 22, 44, 55, 37, 65];
 ```
 
 ##### Samm 1
-  * Loo algoritm
+  * :apple: Loo algoritm
 ##### Samm 2
-  * Loo plokkskeem
+  * :apple: Loo plokkskeem
 ##### Samm 3:
-  * Loo programm
+  * :apple: Loo programm
 
 ### Algoritm
 
