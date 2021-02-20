@@ -24,11 +24,11 @@ Kasutame "for" tsüklit, milles muutuja "i" algväärtus on 0 ja protsessi korra
 
 Väljundiks on massiiv õunte massidega
 
-###  :apple: Plokkskeeemi loomine
+###  :apple: Plokkskeeem
 
 ![Plokkskeem](./Plokkskeem.jpg)
 
-###  :apple: Programmi loomine
+###  :apple: Programmikood
 
 :green_apple: [sorteerijaJS](./index.js)
 
