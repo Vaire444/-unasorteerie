@@ -33,5 +33,5 @@ Väljundiks on multidimensionaalne massiiv õunte järjekorranumbritega kogumaks
 
 ### Plokkskeem
 
-![Plokkskeem](./Plokkskeem.png)
+![Plokkskeem](./Plokkskeem.jpg)
 
