@@ -12,12 +12,12 @@ Massiivis on numbriliselt kirjas kaalud.
 var apples = [ 29, 70, 85, 77, 55, 44, 33, 98, 90, 47, 22, 44, 55, 37, 65];
 ```
 
-##### Samm 1
-  * :apple: Loo algoritm
-##### Samm 2
-  * :apple: Loo plokkskeem
-##### Samm 3:
-  * :apple: Loo programm
+#### Samm 1
+#####  * :apple: Programmi loomine
+#### Samm 2
+#####  * :apple: Plokkskeeemi loomine
+#### Samm 3:
+#####  * :apple: Programmi loomine
 
 ### Algoritm
 
@@ -29,9 +29,16 @@ Kasutame "for" tsüklit, milles muutuja "i" algväärtus on 0 ja protsessi korra
 
 "If","else if", "else" tingimuslauset kasutades loendame õunad järgnevatesse kastidesse `small` (-50g), `medium` (51-70g) ja `big` (71+g) ja lisame kolme erinevasse massiivi, `sm`(-50g), `med`(51-70g), `bg`(71+g), õunte järjekorranumbritega
 
-Väljundiks on multidimensionaalne massiiv õunte järjekorranumbritega kogumaks statistikat
+Väljundiks on massiiv õunte massidega
 
 ### Plokkskeem
 
 ![Plokkskeem](./Plokkskeem.jpg)
+
+## Programmifailid
+
+:yellow_apple: [sorteerijaJS](./index.js)
+
+:apple: [sorteerijaJava](./index.java)
+
 
