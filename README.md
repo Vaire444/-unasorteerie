@@ -12,14 +12,7 @@ Massiivis on numbriliselt kirjas kaalud.
 var apples = [ 29, 70, 85, 77, 55, 44, 33, 98, 90, 47, 22, 44, 55, 37, 65];
 ```
 
-#### Samm 1
-#####  * :apple: Programmi loomine
-#### Samm 2
-#####  * :apple: Plokkskeeemi loomine
-#### Samm 3:
-#####  * :apple: Programmi loomine
-
-### Algoritm
+### 1. :apple: Algoritm
 
 Koostame kolm erinevat muutujat `small`, `medium`, `big`, nende muutujate algväärtuseks on `0` (null)
 
@@ -31,11 +24,11 @@ Kasutame "for" tsüklit, milles muutuja "i" algväärtus on 0 ja protsessi korra
 
 Väljundiks on massiiv õunte massidega
 
-### Plokkskeem
+### 2. :apple: Plokkskeeemi loomine
 
 ![Plokkskeem](./Plokkskeem.jpg)
 
-### Programmifailid
+### 3. :apple: Programmi loomine
 
 :green_apple: [sorteerijaJS](./index.js)
 
