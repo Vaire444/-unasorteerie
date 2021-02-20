@@ -35,9 +35,9 @@ Väljundiks on massiiv õunte massidega
 
 ![Plokkskeem](./Plokkskeem.jpg)
 
-## Programmifailid
+### Programmifailid
 
-:yellow_apple: [sorteerijaJS](./index.js)
+:green_apple: [sorteerijaJS](./index.js)
 
 :apple: [sorteerijaJava](./index.java)
 
